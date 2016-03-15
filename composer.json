@@ -1,5 +1,5 @@
 {
-    "name": "paradigmate/image-bundle",
+    "name": "aferrandini/image-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 bundle for image resizing.",
     "keywords": ["image", "resize"],
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Ariel Ferrandini Price",
-            "email": "aferrandini@paradigmatecnologico.com"
+            "email": "arielferrandini@gmail.com"
         }
     ],
     "require": {
